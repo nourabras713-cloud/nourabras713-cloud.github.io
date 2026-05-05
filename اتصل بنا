@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>اتصل بنا</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div style="padding:40px">
+<h1>اتصل بنا</h1>
+<p>Email: your@email.com</p>
+</div>
+
+</body>
+</html>
