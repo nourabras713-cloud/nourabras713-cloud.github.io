@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>مستقبل الذكاء الاصطناعي</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<header class="header">
+  <h1>Tech Uncovered</h1>
+</header>
+
+<article style="max-width:800px;margin:auto;padding:40px">
+
+<h1>مستقبل الذكاء الاصطناعي</h1>
+
+<p>
+الذكاء الاصطناعي أصبح قوة تغير العالم بسرعة كبيرة...
+</p>
+
+<h2>تأثيره على الوظائف</h2>
+<p>سيؤثر على ملايين الوظائف حول العالم...</p>
+
+<h2>مستقبل الشركات</h2>
+<p>الشركات التي تعتمد عليه ستسيطر على السوق...</p>
+
+</article>
+
+</body>
+</html>
