@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>الربح من الإنترنت</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<article style="max-width:800px;margin:auto;padding:40px">
+
+<h1>طرق الربح من الإنترنت</h1>
+
+<p>هناك طرق كثيرة للربح عبر الإنترنت...</p>
+
+<h2>العمل الحر</h2>
+<p>مثل التصميم والبرمجة...</p>
+
+<h2>التسويق بالعمولة</h2>
+<p>ترويج المنتجات مقابل عمولة...</p>
+
+</article>
+
+</body>
+</html>
